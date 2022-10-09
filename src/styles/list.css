@@ -1,0 +1,14 @@
+.list {
+    width: max-content;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list input[type='checkbox']:hover {
+    cursor: pointer;
+}
+
+.list td svg:hover {
+    cursor: pointer;
+}

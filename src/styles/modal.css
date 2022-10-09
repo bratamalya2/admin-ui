@@ -1,0 +1,7 @@
+.modal-form > div {
+    margin-bottom: 10px;
+}
+
+.modal-form > div > label {
+    width: 20%;
+}

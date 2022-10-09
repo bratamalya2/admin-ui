@@ -1,0 +1,9 @@
+.searchbar-area {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchbar-area input {
+    width: 50%;
+}
